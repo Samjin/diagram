@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T21:07:06.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gqlPWQ-_-ahTeKEeq2Tn" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T21:10:24.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="azSu2o0K6USd-TgluU3H" version="20.8.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1254" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -189,8 +189,8 @@
         <mxCell id="9AquaJbqrL2KOxMunNHV-3" value="Github Action&lt;br&gt;[eg-default/-macOS]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="970" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1Rv2bm26NuJVzMtn4V_V-1" value="4cores or 32cores&lt;br&gt;32G memory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="668" y="1000" width="120" height="40" as="geometry" />
+        <mxCell id="1Rv2bm26NuJVzMtn4V_V-1" value="4 vs 32 cores&lt;br&gt;32G memory" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="678" y="1000" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Rv2bm26NuJVzMtn4V_V-2" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="890" width="170" height="60" as="geometry" />
@@ -207,7 +207,7 @@
         <mxCell id="1Rv2bm26NuJVzMtn4V_V-10" value="S3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="1160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1Rv2bm26NuJVzMtn4V_V-12" value="Local loom to keep polling S3&lt;br&gt;after a job started" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1Rv2bm26NuJVzMtn4V_V-12" value="Local loom to keep polling S3&lt;br&gt;after a job started" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1180" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
