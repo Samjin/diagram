@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T13:08:20.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CfYUT6nx334UgCS6IQ2N" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T13:10:13.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9deZeIKuebiFqeY-69o2" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3792" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="73T-r_DgvOivFjFY6AgP-52" value="Schema validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1860" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1870" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73T-r_DgvOivFjFY6AgP-53" value="Fetch service schema&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1870" y="520" width="140" height="30" as="geometry" />
