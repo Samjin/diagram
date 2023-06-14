@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T13:13:09.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F5OxTvlDx5CZOZeW8zwS" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T13:18:35.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6Hcljq5V6fgA_bJRlAzV" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3792" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -327,14 +327,11 @@
         <mxCell id="73T-r_DgvOivFjFY6AgP-88" value="Self managed Jenkins job for&lt;br&gt;schema validation, publish" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1870" y="561" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="73T-r_DgvOivFjFY6AgP-89" value="Self managed Jenkins job&lt;br&gt;(Apollo api v123)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="73T-r_DgvOivFjFY6AgP-89" value="Self managed Jenkins job by each service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1870" y="572" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="73T-r_DgvOivFjFY6AgP-94" value="Schema validations, publish &lt;br&gt;and build supergraph" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1262.5" y="210" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="73T-r_DgvOivFjFY6AgP-96" value="Some jobs don&#39;t need shared types &lt;br&gt;so they are not calling lambda service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1920" y="653" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
